@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.a8bbe1a8.css",
-    "main.js": "/portfolio/static/js/main.7841b393.js",
-    "static/media/84192730.jpg": "/portfolio/static/media/84192730.5ddf8c1c7b0ba978568b.jpg",
-    "static/media/103243688.jpg": "/portfolio/static/media/103243688.d418967aad40212809c0.jpg",
-    "static/media/profile.jpg": "/portfolio/static/media/profile.724c1d2e04e97dd1d053.jpg",
-    "index.html": "/portfolio/index.html",
-    "main.a8bbe1a8.css.map": "/portfolio/static/css/main.a8bbe1a8.css.map",
-    "main.7841b393.js.map": "/portfolio/static/js/main.7841b393.js.map"
+    "main.css": "/adityaguptavd/portfolio.git/static/css/main.a8bbe1a8.css",
+    "main.js": "/adityaguptavd/portfolio.git/static/js/main.8a44c1ea.js",
+    "static/media/84192730.jpg": "/adityaguptavd/portfolio.git/static/media/84192730.5ddf8c1c7b0ba978568b.jpg",
+    "static/media/103243688.jpg": "/adityaguptavd/portfolio.git/static/media/103243688.d418967aad40212809c0.jpg",
+    "static/media/profile.jpg": "/adityaguptavd/portfolio.git/static/media/profile.bbd73c0d8bb399f9ecb0.jpg",
+    "index.html": "/adityaguptavd/portfolio.git/index.html",
+    "main.a8bbe1a8.css.map": "/adityaguptavd/portfolio.git/static/css/main.a8bbe1a8.css.map",
+    "main.8a44c1ea.js.map": "/adityaguptavd/portfolio.git/static/js/main.8a44c1ea.js.map"
   },
   "entrypoints": [
     "static/css/main.a8bbe1a8.css",
-    "static/js/main.7841b393.js"
+    "static/js/main.8a44c1ea.js"
   ]
 }
